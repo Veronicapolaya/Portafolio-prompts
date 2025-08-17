@@ -4,7 +4,7 @@ Este proyecto es un **portafolio académico y demostrativo** en el que recopilo 
 
 ## Demo
 👉 Puedes ver la página publicada aquí:  
-[Mi Portafolio en GitHub Pages](https://TU_USUARIO.github.io/portafolio-prompts/)
+[Mi Portafolio en GitHub Pages][(https://TU_USUARIO.github.io/portafolio-prompts/)](http://127.0.0.1:5500/Portafolio%20Ingenier%C3%ADa%20de%20Prompts/ejercicio2.html)
 
 ## Contenidos
 
