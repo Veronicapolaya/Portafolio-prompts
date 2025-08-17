@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Ejercicio 1 — Análisis de Sentimientos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Ejercicio 1: Análisis de Sentimientos</h1>
+  <nav>
+    <a href="index.html">Volver al inicio</a>
+  </nav>
+</header>
+
+<main class="card">
+  <section class="prompt">
+    <h3>Prompt (Few-shot + Chain of Thought)</h3>
+<pre><code>
+Clasifica el sentimiento de cada frase como Positivo, Negativo o Neutro. 
+Piensa paso a paso explicando por qué, antes de dar la respuesta final.
+
+Ejemplos:
+"Esta película fue terrible." 
+→ Negativo (contiene adjetivo fuerte de desagrado).
+
+"¡Es mi película favorita ahora!" 
+→ Positivo (expresa entusiasmo y valoración personal).
+
+"El servicio estuvo bien." 
+→ Neutro (expresa conformidad moderada, sin emoción extrema).
+
+Ahora clasifica y explica:
+1) "Me encantó la clase de hoy, aprendí bastante."
+2) "No funcionó nada y perdí tiempo."
+3) "Está correcto, pero podría mejorar."
+</code></pre>
+  </section>
+
+  <section class="resultado">
+    <h3>Resultado esperado (ejemplo de salida)</h3>
+<pre><code>
+1) Positivo — "encantó", "aprendí bastante" → expresa satisfacción clara.
+2) Negativo — "no funcionó", "perdí tiempo" → transmite frustración.
+3) Neutro — "correcto", "podría mejorar" → crítica moderada sin carga fuerte.
+</code></pre>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 | Mi Portafolio</p>
+</footer>
+</body>
+</html>
