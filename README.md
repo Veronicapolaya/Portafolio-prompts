@@ -3,7 +3,7 @@
 Este proyecto es un **portafolio académico y demostrativo** en el que recopilo ejercicios prácticos de *Prompt Engineering*, aplicando diferentes técnicas de razonamiento en modelos de lenguaje (LLMs).  
 
 ## Demo
-👉 Puedes ver la página publicada aquí:  
+Puedes ver la página publicada aquí:  
 [Mi Portafolio en GitHub Pages][(https://TU_USUARIO.github.io/portafolio-prompts/)](http://127.0.0.1:5500/Portafolio%20Ingenier%C3%ADa%20de%20Prompts/ejercicio2.html)
 
 ## Contenidos
@@ -29,5 +29,5 @@ Este proyecto es un **portafolio académico y demostrativo** en el que recopilo 
 
 ---
 
-✍️ Autor: Veronica Apolaya  
-📅 Año: 2025  
+Autor: Veronica Apolaya  
+Año: 2025  
