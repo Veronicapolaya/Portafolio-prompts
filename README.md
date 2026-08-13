@@ -21,7 +21,7 @@ Puedes ver la página publicada aquí:
 - Dar un respaldo **académico + práctico** con ejemplos reproducibles.  
 - Servir como recurso personal y compartido en mi aprendizaje de LLMs.  
 
-## 🛠Tecnologías
+## Tecnologías
 
 - **HTML5** + **CSS3** → estructura y diseño responsive.  
 - **JavaScript** → validación de enlaces.  
